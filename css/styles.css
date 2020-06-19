@@ -1,8 +1,17 @@
-.container {
-    background-color:skyblue;
-}
+/*.container {
+    background-color:brown;
+}*/
 
+
+/*.row {
+    justify-content: center;
+}
 .row div{
     background-color:yellowgreen;
     border:solid red 1px;
+
 }
+/*.jumbotron-fluid {
+    background-color: brown;
+    
+}*/
